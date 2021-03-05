@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:11-37
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+	android:versionCode
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml:1:1-3:12
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/lijunfeng/work/powready/node_modules/judokit-react-native/android/src/main/AndroidManifest.xml
